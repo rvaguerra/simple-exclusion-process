@@ -4,7 +4,6 @@ const w = 600;
 const h = 600;
 const res = 25;
 const dim = w / res;
-const size = 5;
 const count = 100;
 
 const targetFrameRate = 10;
